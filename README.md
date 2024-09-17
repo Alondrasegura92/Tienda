@@ -1,0 +1,8 @@
+CREATE DATABASE Tienda;
+USE tienda;
+
+CREATE TABLE Productos(
+idproducto INT PRIMARY KEY AUTO_INCREMENT,
+Nombre VARCHAR(255),
+Descripcion VARCHAR(255),
+Precio DOUBLE);
