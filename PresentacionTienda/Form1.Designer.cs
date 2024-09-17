@@ -42,6 +42,7 @@
             this.dtgvProducto.Name = "dtgvProducto";
             this.dtgvProducto.Size = new System.Drawing.Size(541, 208);
             this.dtgvProducto.TabIndex = 1;
+            this.dtgvProducto.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgvProducto_CellClick);
             // 
             // label1
             // 
@@ -58,6 +59,7 @@
             this.txtProducto.Name = "txtProducto";
             this.txtProducto.Size = new System.Drawing.Size(325, 29);
             this.txtProducto.TabIndex = 3;
+            this.txtProducto.TextChanged += new System.EventHandler(this.txtProducto_TextChanged);
             // 
             // button1
             // 
@@ -68,6 +70,7 @@
             this.button1.TabIndex = 4;
             this.button1.Text = "+";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Form1
             // 
@@ -80,7 +83,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.dtgvProducto);
             this.Font = new System.Drawing.Font("Arial Black", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.Margin = new System.Windows.Forms.Padding(5);
             this.Name = "Form1";
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.dtgvProducto)).EndInit();

@@ -1,0 +1,16 @@
+C:\Users\Alondra segura\source\repos\PresentacionTienda\Manejador\bin\Debug\Manejador.dll
+C:\Users\Alondra segura\source\repos\PresentacionTienda\Manejador\bin\Debug\Manejador.pdb
+C:\Users\Alondra segura\source\repos\PresentacionTienda\Manejador\bin\Debug\AccesoDatos.dll
+C:\Users\Alondra segura\source\repos\PresentacionTienda\Manejador\bin\Debug\Conexion.dll
+C:\Users\Alondra segura\source\repos\PresentacionTienda\Manejador\bin\Debug\MySql.Data.dll
+C:\Users\Alondra segura\source\repos\PresentacionTienda\Manejador\bin\Debug\System.Memory.dll
+C:\Users\Alondra segura\source\repos\PresentacionTienda\Manejador\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Alondra segura\source\repos\PresentacionTienda\Manejador\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alondra segura\source\repos\PresentacionTienda\Manejador\bin\Debug\System.Buffers.dll
+C:\Users\Alondra segura\source\repos\PresentacionTienda\Manejador\bin\Debug\AccesoDatos.pdb
+C:\Users\Alondra segura\source\repos\PresentacionTienda\Manejador\bin\Debug\Conexion.pdb
+C:\Users\Alondra segura\source\repos\PresentacionTienda\Manejador\obj\Debug\Manejador.csproj.AssemblyReference.cache
+C:\Users\Alondra segura\source\repos\PresentacionTienda\Manejador\obj\Debug\Manejador.csproj.CoreCompileInputs.cache
+C:\Users\Alondra segura\source\repos\PresentacionTienda\Manejador\obj\Debug\Manejador.csproj.CopyComplete
+C:\Users\Alondra segura\source\repos\PresentacionTienda\Manejador\obj\Debug\Manejador.dll
+C:\Users\Alondra segura\source\repos\PresentacionTienda\Manejador\obj\Debug\Manejador.pdb
